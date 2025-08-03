@@ -9,11 +9,17 @@ body {
 }
 
 .container {
-  width: 90%;
+  width: 50%;
   max-width: 1200px;
   margin: 0 auto;
 }
 
+.header {
+  //@include flexbox;
+  //@include flex-direction(column);
+  //@include flex(1, 0, auto);
+  //height: fit-content;
+}
 
 // Header, feature and footer
 .header,
@@ -48,13 +54,22 @@ body {
   margin-bottom: 1.6rem;
   text-align: center;
   background: $featureBackgroundColour;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 0;
+  margin-top: 0;
+  //height: 100%;
   .container {
-    max-width: 60%;
-    min-height: 35vh;
+    //max-width: 60%;
+    min-height: 40vh;
+    height: 100%;
     @include flex-direction(column);
     @include justify-content(center);
+    //@include align-items(top);
+
+    //padding-top: 0;
+    //margin-top: 0;
   }
 }
 
