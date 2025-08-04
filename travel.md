@@ -1,6 +1,6 @@
 ---
 title: Travel
-feature_image: "../assets/images/safari.jpg"
+feature_image: "../assets/images/zephy-sunset.jpg"
 image: "../assets/images/sweden-aperol.jpg"
 ---
 ### Ridesharing 🤝🏼

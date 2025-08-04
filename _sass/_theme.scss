@@ -25,7 +25,12 @@ body {
 .header,
 .footer {
   .nav {
+    padding-left: 1rem 0;
+    padding-right: 1rem 0;
     text-align: right;
+    //background-color: white;
+
+
   }
   .logo {
     @include flex(0 0 auto);
@@ -53,17 +58,18 @@ body {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
-  background: $featureBackgroundColour;
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  padding-top: 0;
-  margin-top: 0;
+
+  //padding-top: 0;
+  //margin-top: 0;
   //height: 100%;
   .container {
+    //background-color: white;
     //max-width: 60%;
     min-height: 40vh;
-    height: 100%;
+    min-width: 60vw;
     @include flex-direction(column);
     @include justify-content(center);
     //@include align-items(top);
@@ -133,6 +139,7 @@ body {
 
 // Main content
 .main {
+  background-color: white;
   @include flexbox;
   @include flex-direction(column);
   @include flex(1, 0, auto);

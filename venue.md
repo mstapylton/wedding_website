@@ -1,15 +1,19 @@
 ---
 title: Venue Information
-feature_image: "../assets/images/sunset-nyc.jpg"
+feature_image: "../assets/images/zephyr_wedding_shot.jpg"
 image: "../assets/images/sweden-aperol.jpg"
 ---
 
-<p style='text-align: center'>The wedding venue is <a href='https://maps.app.goo.gl/ubD3wVfE6WosJkqH6'>La Bastide des Terres,</a> 70 Chemin de Chabrier, 26270 Mirmande, France.</p>
+<p style='text-align: center'>The wedding venue is <a href='https://maps.app.goo.gl/ubD3wVfE6WosJkqH6'>Zephyr Palace</a>
+Junto al, Hotel Villa Caletas, Puntarenas Province, Jaco, Costa Rica
+</p>
 
 
-|[![La Bastide des Terres](../assets/images/bastide-wide-lq.jpg){:class="img-responsive"}](../assets/images/bastide-wide-lq.jpg)|  
+|[![Zephyr Palace](../assets/images/zephyr_building.jpg){:class="img-responsive"}](../assets/images/bastide-wide-lq.jpg)|  
 |:--:|
 | *View of La Bastide des Terres* |
+
+
 
 <br>
 
