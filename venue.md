@@ -1,7 +1,5 @@
 ---
 title: Venue Information
-feature_image: "../assets/images/zephyr_wedding_shot.jpg"
-image: "../assets/images/sweden-aperol.jpg"
 ---
 
 <p style='text-align: center'>The wedding venue is <a href='https://maps.app.goo.gl/ubD3wVfE6WosJkqH6'>Zephyr Palace</a>

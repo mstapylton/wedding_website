@@ -38,12 +38,14 @@ navigation_header:
   url: /
 - title: Venue Info
   url: /venue/
-- title: Travel
-  url: /travel/
+- title: What to Expect
+  url: /what_to_expect/
 - title: Agenda
   url: /agenda/
-- title: Photos
-  url: /photos/
+- title: RSVP
+  url: /rsvp/
+
+
 
 
 # Footer nav
