@@ -151,6 +151,7 @@ body {
     @include justify-content(center);
     @include flex-direction(row);
   }
+  height: auto;
 }
 
 .header,
