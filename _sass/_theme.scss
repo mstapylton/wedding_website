@@ -30,7 +30,6 @@ body {
     padding-right: 1rem 0;
     text-align: right;
     //background-color: white;
-    background-color: white;
 
   }
   .logo {
@@ -141,7 +140,7 @@ body {
 
 // Main content
 .main {
-  background-color: white;
+  //background-color: white;
   @include flexbox;
   @include flex-direction(column);
   @include flex(1, 0, auto);

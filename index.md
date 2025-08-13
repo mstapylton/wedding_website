@@ -5,7 +5,7 @@ image: "../assets/images/sweden-aperol.jpg"
 feature_image: "../assets/images/Matt_Jing_Proposal_7.jpg"
 feature_text: |
   <h1 style="color: #eeeee4"> Matt and Jing </h1>
-  <p style="color: #eeeee4"> Saturday 9th July 2022 </p>
+  <p style="color: #eeeee4"> Sunday 18th January 2026 </p>
   <br>
   <br>
   <br>

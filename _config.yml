@@ -22,7 +22,7 @@ plugins:
 - fastimage
 
 # Site settings
-url: 'https://www.archieandanna.com'
+url: 'https://www.matching-matt-jing.com'
 baseurl: ''
 title: "Matt and Jing's wedding"
 image: "../assets/images/sweden-aperol.jpg"
@@ -42,9 +42,14 @@ navigation_header:
   url: /what_to_expect/
 - title: Agenda
   url: /agenda/
+- title: Lodging
+  url: /lodging/
+- title: Activities
+  url: /activities/
 - title: RSVP
   url: /rsvp/
-
+- title: Registry
+  url: /registry/
 
 
 

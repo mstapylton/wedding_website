@@ -1,29 +1,24 @@
 ---
-title: Agenda
+title: ✨ Event Schedule
 ---
 
-We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We have events each day, and they are all at the same venue. You are welcome to come to as much or as little as you like.
+## Ceremony – Zephyr Palace
+- ⏰ **4:30 PM** – Guest arrival
+- 💍 **5:00 PM** – Ceremony begins with live music
+- 🍽️ **5:30 PM** – Ceremony ends (small bites provided)
 
-This is the rough plan:
+## Reception – Rancho
+- 🪑 **6:30 PM** – Guests take their seats
+- 👰 **6:35 PM** – Bride & groom grand entrance
+- 🍽️ **6:40 PM** – Dinner orders taken
+- 🥂 **7:00 PM** – Speeches & toasts
+- 🍽️ **7:15 PM** – Dinner service begins
+- 🎂 **8:30 PM** – Cake cutting
+- 🍽️ **8:40 PM** – Dinner concludes
+- 🎵 **8:45 PM** – First dance
+- 🎉 **10:30 PM** – Party starts ✨
+- 💐 **12:00 AM** – Bouquet toss / garter toss (if any)
 
-- **Friday**
-    - 6pm - 8pm: Buffet dinner for those arriving the day before
-    - Pool open - if you want to take a dip bring along your swimmers
-- **Saturday - Main Event**     
-  *Dress: "Riviera Chic" (See [FAQs](../faq/))*
-    - Before 1:30pm: Time for you to explore the local area
-    - 1:30pm - 2pm: Guests arrive at the venue
-    - 2pm - 3pm: Ceremony
-    - 3pm - 5pm: Canapes 
-    - 5pm - 7pm: Drinks, Lawn Games
-    - 7pm - 10pm: Dinner, Speeches
-    - 10pm - Late: Music & Dancing
-    
-- **Sunday**
-    - 10am - 12pm: Buffet Brunch 
-    - 12pm - 6pm: Relaxing by the pool & in the grounds
-    - Guests can stay until 6pm, when we have to vacate
+_Event ends & florist collects arrangements_
 
-<p style='text-align: right'>
-{% include button.html text="<b>Accommodation »</b>" link="../accommodation"%}
-</p>
+
