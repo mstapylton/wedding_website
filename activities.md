@@ -1,6 +1,6 @@
 ---
 ---
-<img src="../assets/images/image6.png" alt="Floral pattern" width="400">
+<img src="../assets/images/image6.png" alt="Floral pattern" width="400" style="display: block; margin: 0 auto;">
 
 ## Nature & Adventure
 

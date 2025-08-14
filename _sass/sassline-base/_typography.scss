@@ -290,6 +290,8 @@ a {
 
         @media screen and (min-width: nth($points, $i) / 16 * 1em ) {
           margin-bottom: #{$baseline-push}rem;
+          margin-left: #{$baseline-push}rem;
+          margin-right: #{$baseline-push}rem;
           padding-bottom: #{$baseline-shift}rem;
         }
       }

@@ -25,7 +25,7 @@ plugins:
 url: 'https://www.matching-matt-jing.com'
 baseurl: ''
 title: "Matt and Jing's wedding"
-image: "../assets/images/sweden-aperol.jpg"
+#image: "../assets/images/sweden-aperol.jpg"
 description: "All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!"
 permalink: pretty
 #logo: "/assets/logos/white_icon.svg" # Site logo, also used in jekyll-seo-tag
@@ -38,7 +38,7 @@ navigation_header:
   url: /
 - title: Venue Info
   url: /venue/
-- title: What to Expect
+- title: Planning
   url: /what_to_expect/
 - title: Agenda
   url: /agenda/
@@ -50,6 +50,10 @@ navigation_header:
   url: /rsvp/
 - title: Registry
   url: /registry/
+- title: Poll
+  url: /poll/
+- title: About
+  url: /about/
 
 
 
