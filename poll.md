@@ -1,10 +1,10 @@
 ---
 image: "../assets/images/sweden-aperol.jpg"
 ---
-<div style="display: flex; justify-content: center; height: 100%;">
+<div style="display: flex; justify-content: center; height: 100%; width 50%;">
   <iframe 
     src="https://docs.google.com/forms/d/1JD1h2p5ND32y4mI9QGJT1itwEDRLqbl9pSOSxS1JhFU/viewform?embedded=true" 
-    width="50%" 
+    width="100%" 
     height="100%" 
     frameborder="0" 
     marginheight="0" 
@@ -12,7 +12,3 @@ image: "../assets/images/sweden-aperol.jpg"
     Loading…
   </iframe>
 </div>
-
-<p style='text-align: right'>
-{% include button.html text="<b>FAQ »</b>" link="../faq"%}
-</p>

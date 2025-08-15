@@ -1,10 +1,10 @@
 ---
 ---
-<div style="display: flex; justify-content: center; height: 100%;">
+<div style="display: flex; justify-content: center; height: 100%; width: 50%;">
   <iframe 
     src="https://docs.google.com/forms/d/1w3eN-dSGuee0QOTnWWvdAmZGbQxEjzJ1747yPaSXtE0/viewform?embedded=true" 
-    width="1400" 
-    height="2200" 
+    width="100%" 
+    height="100%" 
     frameborder="0" 
     marginheight="0" 
     marginwidth="0">
