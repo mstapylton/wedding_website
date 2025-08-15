@@ -9,9 +9,9 @@ description: 💍 Sunday January 18th 2026 🇫🇷 All the info you need about 
   gap: 10px;
   width: 100%;
 ">
-  <img src="../assets/images/rooftop.jpg" style="max-width: 30%; min-width: 200px; height: auto;">
-  <img src="../assets/images/Matt_Jing_Proposal_7.jpg" style="max-width: 30%; min-width: 200px; height: auto;">
-  <img src="../assets/images/wedding-old.jpg" style="max-width: 30%; min-width: 200px; height: auto;">
+  <img src="../assets/images/sunset.jpg" style="max-width: 30%; min-width: 200px; height: auto; max-height: 70%">
+  <img src="../assets/images/Matt_Jing_Proposal_7.jpg" style="max-width: 30%; min-width: 200px; height: auto; max-height: 70%">
+  <img src="../assets/images/hawaii.jpg" style="max-width: 30%; min-width: 200px; height: auto; max-height: 70%">
 </div>
 
 <p style='text-align: center'>
