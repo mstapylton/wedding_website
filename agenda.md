@@ -17,8 +17,4 @@ title: ✨ Event Schedule
 - 🍽️ **8:40 PM** – Dinner concludes
 - 🎵 **8:45 PM** – First dance
 - 🎉 **10:30 PM** – Party starts ✨
-- 💐 **12:00 AM** – Bouquet toss / garter toss (if any)
-
-_Event ends & florist collects arrangements_
-
-
+- 💐 **12:00 AM** – Bouquet toss
