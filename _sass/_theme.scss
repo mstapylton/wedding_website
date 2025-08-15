@@ -8,6 +8,13 @@ body {
   overflow-x: hidden;
 }
 
+.article.article--page.content.typeset {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
 .container {
   width: 70%;
   max-width: 1200px;
@@ -16,6 +23,7 @@ body {
 }
 
 .header {
+  //@include baseline($fontsize: delta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
   //@include flexbox;
   //@include flex-direction(column);
   //@include flex(1, 0, auto);
@@ -36,6 +44,8 @@ body {
     @include flex(0 0 auto);
   }
   .container {
+    font-size: x-large;
+    line-height: 1.5;
     @include flexbox;
     @include flex-direction(row);
     @include justify-content(space-between);

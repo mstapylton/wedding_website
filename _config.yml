@@ -54,6 +54,9 @@ navigation_header:
   url: /poll/
 - title: About
   url: /about/
+- title: Photos
+  url: /photos/
+
 
 
 

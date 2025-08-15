@@ -1,18 +1,18 @@
 ---
 title: Matt & Jing's Wedding 
-description: 💍 Saturday 9th July 2022 🇫🇷 All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!
-feature_image: "../assets/images/Matt_Jing_Proposal_7.jpg"
-
-feature_text: |
-  <h1 style="color: #eeeee4"> Matt and Jing </h1>
-  <p style="color: #eeeee4"> Sunday 18th January 2026 </p>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+description: 💍 Sunday January 18th 2026 🇫🇷 All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!
 ---
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+">
+  <img src="../assets/images/rooftop.jpg" style="max-width: 30%; height: auto;">
+  <img src="../assets/images/Matt_Jing_Proposal_7.jpg" style="max-width: 30%; height: auto;">
+  <img src="../assets/images/wedding-old.jpg" style="max-width: 30%; height: auto;">
+</div>
 
 <p style='text-align: center'>
 Our wedding is on <b>Sunday 18th January 2026</b>, with events going on from 17th-19th, in Costa Rica.
