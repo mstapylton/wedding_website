@@ -1,6 +1,6 @@
 ---
 ---
-<div style="display: flex; justify-content: center; height: 100%; width: 50%;">
+<div style="display: flex; justify-content: center; height: auto; width: 50%;">
   <iframe 
     src="https://docs.google.com/forms/d/1w3eN-dSGuee0QOTnWWvdAmZGbQxEjzJ1747yPaSXtE0/viewform?embedded=true" 
     width="100%" 
