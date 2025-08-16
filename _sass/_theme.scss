@@ -9,13 +9,18 @@ body {
 }
 
 .article.article--page.content.typeset {
-    width: 100% !important;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 70% !important;
     max-width: 100% !important;
     margin: 0 !important;
-    padding: 0 !important;
-    text-align: center;
-    list-style-position: inside;
-    margin-left: 20%;
+    //padding-left: 5% !important;
+    //text-wrap: wrap;
+    //text-align: center;
+    //list-style-position: inside;
+    //margin-left: 20%;
 }
 
 .container {
@@ -24,6 +29,7 @@ body {
   //max-width: 600px;
   margin: 0 auto;
 }
+
 
 .header {
   //@include baseline($fontsize: delta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
