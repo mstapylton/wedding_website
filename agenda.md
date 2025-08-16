@@ -1,7 +1,6 @@
 ---
 title: ✨ Event Schedule
 ---
-
 ## Ceremony – Zephyr Palace
 - ⏰ **4:30 PM** – Guest arrival
 - 💍 **5:00 PM** – Ceremony begins with live music
