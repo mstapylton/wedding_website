@@ -10,8 +10,3 @@
     Loading…
   </iframe>
 </div>
-
-
-<p style='text-align: right'>
-{% include button.html text="<b>FAQ »</b>" link="../faq"%}
-</p>
