@@ -169,7 +169,7 @@ body {
   @include flexbox;
   @include flex-direction(row);
   @include flex(1, 0, auto);
-  @include align-content(center);
+  @include align-content(flex-start);
   //@include justify-content(flex-start);
   margin-bottom: 1.6rem;
   @include breakpoint(break-1) {
