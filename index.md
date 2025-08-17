@@ -11,11 +11,11 @@ description: 💍 Sunday January 18th 2026 🇫🇷 All the info you need about 
 ">
   <img src="../assets/images/sunset.jpg" style="max-width: 30%; min-width: 200px; height: auto; max-height: 300px;">
   <img src="../assets/images/Matt_Jing_Proposal_7.jpg" style="max-width: 30%; min-width: 200px; height: auto; max-height: 300px;">
-  <img src="../assets/images/hawaii.jpg" style="max-width: 30%; min-width: 200px; height: auto; max-height: 300px;">
+  <img src="../assets/images/ski.jpg" style="max-width: 30%; min-width: 200px; height: auto; max-height: 300px;">
 </div>
 
 <p style='text-align: center'>
-Our wedding is on <b>Sunday 18th January 2026</b>, with events going on from 17th-19th, in Costa Rica.
+Our wedding is on <b>Sunday 18th January 2026</b> in Costa Rica!
 </p>
 
 <p style='text-align: center'>

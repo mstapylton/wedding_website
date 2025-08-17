@@ -22,6 +22,6 @@ It’s our little winter escape - warm air, ocean breeze, and a chance to slow d
 
 <p style='text-align: center'>
 <b>Getting there</b>
-Fly into San José International Airport (SJO). From there, it’s about a 1.5-hour drive through winding, scenic roads to the venue. Most guests will likely stay in Jacó, a lively beach town nearby with plenty of hotels, restaurants, and things to explore. We’ll share more details soon to help with travel planning.
+Fly into San José International Airport (SJO). From there, it’s about a 1.5-hour drive through winding, scenic roads to the venue. Most guests will likely stay in Jacó, a lively beach town nearby with plenty of hotels, restaurants, and things to explore.
 We can’t wait to spend this special weekend with you.
 </p>
