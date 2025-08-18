@@ -2,6 +2,8 @@
 ---
 <p align="center">
 Please fill out the form below to RSVP for our wedding! We would appreciate it if you could respond by October 15th.
+For plus ones, feel free to share the form link with them directly:
+<a href="https://docs.google.com/forms/d/1w3eN-dSGuee0QOTnWWvdAmZGbQxEjzJ1747yPaSXtE0">Matt and Jing's wedding RSVP form</a>
 </p>
 
 <div style="display: flex; justify-content: center; height: 100%; width: 100%; min-width: 300px; min-height: 1000px;">
