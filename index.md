@@ -1,6 +1,6 @@
 ---
-title: Matt & Jing's Wedding 
-description: 💍 Sunday January 18th 2026 🇫🇷 All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!
+title: Matt & Jing's Wedding
+description: 💍 Sunday January 18th 2026. All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!
 ---
 <div style="
   display: flex;
