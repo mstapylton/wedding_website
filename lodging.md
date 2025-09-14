@@ -102,6 +102,7 @@
     <main class="wrap">
         <h1>Nearby Accommodations</h1>
         <p class="sub">Estimated Jan 2026 Rates</p>
+        <p class="sub">The nearby town of Jacó has more accomodation options too. We'll be arranging transport back to Jaco after the wedding.</p>
         <section class="card">
             <table aria-describedby="nearby accommodations">
                 <thead>

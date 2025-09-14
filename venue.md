@@ -3,7 +3,7 @@ title: Venue Information
 ---
 
 <p style='text-align: center'>The wedding venue is <a href='https://maps.app.goo.gl/A4DWp4mghvqTLFRR6'>Zephyr Palace</a>
-Junto al, Hotel Villa Caletas, Puntarenas Province, Jaco, Costa Rica
+Junto al, Hotel Villa Caletas, Puntarenas Province, Jacó, Costa Rica
 </p>
 
 
@@ -22,6 +22,6 @@ It’s our little winter escape - warm air, ocean breeze, and a chance to slow d
 
 <p style='text-align: center'>
 <b>Getting there</b>
-Fly into San José International Airport (SJO). From there, it’s about a 1.5-hour drive through winding, scenic roads to the venue. Most guests will likely stay in Jacó, a lively beach town nearby with plenty of hotels, restaurants, and things to explore.
+Fly into San José International Airport (SJO). From there, it’s about a 1.5-hour drive through winding, scenic roads to the venue. Most guests will likely stay in Jacó, a lively beach town nearby with plenty of hotels, restaurants, and things to explore. We'll be arranging transportation from the venue to Jacó after the wedding. If you need help getting to the venue, please let us know and we can coordinate with the transportation service we are using.
 We can’t wait to spend this special weekend with you.
 </p>
